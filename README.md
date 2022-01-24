@@ -9,6 +9,7 @@ JavaScript, HTML, CSS, Figma
 ## Screenshots
 
 ## Home Page
-![Screenshot (2804)](https://user-images.githubusercontent.com/86705418/150729427-661a9314-f356-4dca-8f9c-103745a96552.png)
+![image](https://user-images.githubusercontent.com/86705418/150729550-dd5dd042-7a6b-40ae-8431-ec22c09f02fa.png)
 ## Menu Page
-![Screenshot (2805)](https://user-images.githubusercontent.com/86705418/150729431-2570105b-0cb1-4d03-a9e3-0e06e64dbff3.png)
+![Screenshot (2804)](https://user-images.githubusercontent.com/86705418/150729427-661a9314-f356-4dca-8f9c-103745a96552.png)
+
